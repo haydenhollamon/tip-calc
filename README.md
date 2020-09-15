@@ -1,4 +1,4 @@
-# Pre-work - *tip calc
+# Pre-work - tip calc
 
 **tip calc** is a tip calculator application for iOS.
 
