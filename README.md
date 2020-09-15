@@ -20,3 +20,11 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [ ] Adjustments were made to the design of the app to make it more visualy appealing.
+
+## Video Walkthrough
+
+GIF created with [Imgur](https://imgur.com/ckSj3Qb).
+
+## Notes
+
+I noticed that the simulator defaults to an iphone SE but the app is developed for the iphone 11. please keep that in mind.
