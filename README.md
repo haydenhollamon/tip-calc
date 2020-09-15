@@ -23,7 +23,11 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-GIF created with [Imgur](https://imgur.com/ckSj3Qb).
+Here's a walkthrough of implemented user stories:
+
+<img src='https://media.giphy.com/media/lMyQigCN1Hgrw9cz5M/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [giphy](http://https://giphy.com/).
 
 ## Notes
 
