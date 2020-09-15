@@ -1,8 +1,8 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *tip calc
 
 **tip calc** is a tip calculator application for iOS.
 
-Submitted by: ** Hayden Hollamon**
+Submitted by: **Hayden Hollamon**
 
 Time spent: **2** hours spent in total
 
